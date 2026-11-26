@@ -1,6 +1,6 @@
 # 🚀 A Meter Água
 
-Um projeto educativo e experimental que combina **ciência e engenharia aeroespacial** com **eletrónica e programação**.
+Um projeto educativo e experimental que combina **ciência e engenharia** com **eletrónica e programação**.
 
 ---
 
@@ -21,7 +21,6 @@ Consulta os documentos complementares do projeto nos links abaixo:
 * [Esquemas Eletrónicos e Ligações](./docs/eletronica.md)
 * [Código de Programação (micro:bit e Arduino)](./docs/codigo.md)
 * [Normas de Segurança e Procedimentos de Lançamento](./docs/seguranca.md)
-* [Guião de Análise de Dados e Registo de Voos](./docs/analise-dados.md)
 
 ---
 
